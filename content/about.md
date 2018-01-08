@@ -7,41 +7,21 @@ sidemenu = "true"
 
 ## About me
 
-Hi there!
+Hi there! I am Bhargava Reddy Morampalli!
 
-My name is Yoshiharu Yamashita, Yoshi for short.
+I am an experienced molecular biologist with over 4 years' experience in working on different projects related to regeneration, cancer, neuroscience, endocrinology (delayed puberty) as well as limited experience in bioinformatics and microfluidics. My research and work interests are applying my knowledge and skillset for finding answers to questions in basic sciences which inturn will lead to development of new therapies for currently incurable diseases.
 
-I am originally from Japan but in 2001 I made one of the biggest decisions in my life and came to England to do a university degree course.
+I am also extremely fascinated by data explosion in the fields of basic sciences research and healthcare which I believe will lead to revolutionary discoveries either from analysis themselves or by helping design better experiments in wet lab. That's why I am currently teaching myself programming and data analysis tools so that I can grow as a scientist who can understand and utilize information from both wet and dry lab techniques.
 
-Being so far from home was not easy to begin with but life in England has turned out to be better than I could ever have imagined when I made that decision.
+This blog is especially to write about my journey into this new field and I might also write some posts related to topics in biology. Please don't hesitate to contact me regarding anything at all.
 
-I am currently living and working in Bristol, UK.
-
-### Software Engineer
-
-I work on software applications to automatically check and correct video/audio problems in file-based media. In my role, I code mainly in C++ but I often use C#, JavaScript and Python as well.
-
-### Freelance Translator
-
-I also carry out English to Japanese translations and proofreading for computer related areas. My experience includes translations/proofreading of GUIs, technical user guides and website contents to name but a few. I have also done Japanese voice over for video tutorials on PlayStation development tools.
-
-### Wannabe Freestyle Footballer
-
-I keep a football in my office and practice at lunch time. My current favourite place to practice is the alley at the back of my office off which there are several pubs. The surface is uneven and made of cobbles but I like it there because it is very quiet at lunch time.
 
 ## About this site
 
 This is where I post articles and thoughts on anything that springs to mind.
 
 - Generated using [Hugo](//gohugo.io), a fast and modern static website engine
-- Hosted from my GitHub [repository](//github.com/yoshiharuyamashita/yoshiharuyamashita.com)
-- Theme is based on Yahoo's Pure CSS layout [here](//purecss.io/layouts/side-menu/) (I have modified it so that it can be used with Hugo)
+- Hosted from my GitHub [repository](//github.com/bhargava-morampalli/myblog-version2)
 - Icons are from [Font Awesome](//fontawesome.io/)
 - Fonts are from [Google Fonts](//www.google.com/fonts)
-- Domain by [Namecheap](https://www.namecheap.com/?aff=102239)
-
-<!-- BEGIN LINK -->
-<a href="https:&#x2F;&#x2F;www.namecheap.com&#x2F;?aff=102239">
-    <img class="pure-img" src="http:&#x2F;&#x2F;files.namecheap.com&#x2F;graphics&#x2F;linkus&#x2F;728x90-1.gif" border="0" alt="Namecheap.com">
-</a>
-<!-- END LINK -->
+- Domain by [Google domains](//www.google.com/domains)
