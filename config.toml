@@ -1,9 +1,9 @@
-baseurl = "http://yoshiharuyamashita.com/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Yoshiharu Yamashita"
+title = "Data n Stuff"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+author = "Bhargava Morampalli"
+copyright = "&copy; 2018. All rights reserved."
 canonifyurls = true
 paginate = 5
 
@@ -13,10 +13,10 @@ paginate = 5
 
 [params]
   # Shown in the home page
-  subtitle = "Software Engineer / Freelance Translator / Wannabe Freestyle Footballer"
-  brand = "Yoshiharu<br>Yamashita"
-  googleAnalytics = "UA-72514969-1"
-  disqus = "yoshiharuyamashita"
+  subtitle = ""
+  brand = "<br>"
+  googleAnalytics = ""
+  disqus = ""
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006"
@@ -63,7 +63,7 @@ paginate = 5
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "yoshiforshort"
-  instagram = "yoshiforshort"
-  github = "yoshiharuyamashita"
-  discogs = "yoshiforshort"
+  twitter = "iambhargava"
+  instagram = ""
+  github = "bhargava-morampalli"
+  discogs = ""
