@@ -1,7 +1,7 @@
 +++
 date = "2016-01-31T17:42:03Z"
 description = ""
-draft = false
+draft = true
 tags = ["hugo", "wercker", "troubleshooting"]
 title = "Automated Deployments using Wercker"
 topics = ["Techy Stuff"]
