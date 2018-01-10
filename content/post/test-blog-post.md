@@ -1,6 +1,6 @@
 +++
 date = "2018-01-10"
-description = ""
+description = "Is the description appearing okay?"
 draft = false
 tags = ["testing"]
 title = "Testing blog post appearance on the blog website"
