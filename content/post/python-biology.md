@@ -1,11 +1,24 @@
 +++
-date = "2018-01-11"
-description = "Python cheat sheet for biology"
+date = "2018-01-20"
+description = ""
 draft = true
 tags = ["python", "cheat sheet"]
-title = "Python commands useful in biological data analysis"
+title = "Python for biological data analysis series - 1"
 topics = ["Bioinformatics"]
 +++
+
+This is the first post in a series of blog posts I am going to write on using python programming for biological data analysis. I will try to write things so that they are easy to follow and with very simple examples. Please note that the actual sequencing data will be much more complex. But, it is important to learn basics with simple examples to get the hang of the commands and way of using them.
+
+This will be the theme of all my blog posts.
+
+#### A few things:
+I will define some terms here that will help in understanding the material below.
+
+**String** - Set of characters that are usually assigned to a variable and are always enclosed in quotation marks (either single or double).
+**float** - This is used to represent decimals and written with a decimal point. e.g. 2.0, 3.5
+**int** - This is used to represent integers either positive or negative whole numbers without a decimal.
+
+Python can do simple arithmetic operations just like a calculator.
 
 
 #### To convert characters of a string to upper and lower cases
