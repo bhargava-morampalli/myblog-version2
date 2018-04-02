@@ -3,7 +3,7 @@ date = "2018-04-03"
 description = "Python cheat sheet for biology"
 draft = false
 tags = ["python", "cheat sheet"]
-title = "Python commands useful in biological data analysis - 2"
+title = "Python for biological data analysis series - 2"
 topics = ["Bioinformatics"]
 +++
 
