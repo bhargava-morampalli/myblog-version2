@@ -1,7 +1,7 @@
 +++
-date = "2018-01-11"
+date = "2018-04-03"
 description = "Python cheat sheet for biology"
-draft = true
+draft = false
 tags = ["python", "cheat sheet"]
 title = "Python commands useful in biological data analysis - 2"
 topics = ["Bioinformatics"]
