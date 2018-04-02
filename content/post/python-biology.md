@@ -17,6 +17,7 @@ I will define some terms here that will help in understanding the material below
 **String** - Set of characters that are usually assigned to a variable and are always enclosed in quotation marks (either single or double).
 
 **float** - This is used to represent decimals and written with a decimal point. e.g. 2.0, 3.5
+
 **int** - This is used to represent integers either positive or negative whole numbers without a decimal.
 
 Python can do simple arithmetic operations just like a calculator.
