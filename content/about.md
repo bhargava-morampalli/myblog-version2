@@ -11,11 +11,14 @@ Hello! I am Bhargava and I am a first year PhD student at [Massey University](ww
 
 ## Background
 
-I have a Bachelor's degree in Pharmacy from [JSS College of Pharmacy](https://www.jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=0&CID=3&PID=10002#), Mysore (India) and a Master's degree in Pharmacology from [Northeastern University](http://www.northeastern.edu/), Boston (USA). During and after my Master's degree, I worked in different labs.
+I have a Bachelor's degree in Pharmacy from [JSS College of Pharmacy](https://www.jssuni.edu.in/JSSWeb/WebShowFromDB.aspx?MID=0&CID=3&PID=10002#), Mysore (India) and a Master's degree in Pharmacology from [Northeastern University](http://www.northeastern.edu/), Boston (USA).
+
+During and after my Master's degree, I worked in different labs:
+
 1. [Khademhosseini Lab](https://tissueeng.net/) at [Harvard-MIT division of Health Sciences](https://hst.mit.edu/) who is now at [UCLA](http://www.ucla.edu/)
-1. [Rajagopal Lab](https://www.rajagopallab.com/) where I worked with [Dr. Purushothama Rao Tata](https://thetatalab.com/) who is now at [Duke University](https://www.duke.edu/).
-1. [Chan Lab](https://connects.catalyst.harvard.edu/Profiles/display/Person/73094) at Boston Children's Hospital
-1. Foundational Neuroscience Centre at [AbbVie Pharmaceuticals](https://www.abbvie.com/our-science/therapeutic-focus-areas/neuroscience.html)
+2. [Rajagopal Lab](https://www.rajagopallab.com/) where I worked with [Dr. Purushothama Rao Tata](https://thetatalab.com/) who is now at [Duke University](https://www.duke.edu/).
+3. [Chan Lab](https://connects.catalyst.harvard.edu/Profiles/display/Person/73094) at Boston Children's Hospital
+4. Foundational Neuroscience Centre at [AbbVie Pharmaceuticals](https://www.abbvie.com/our-science/therapeutic-focus-areas/neuroscience.html)
 
 Through these experiences, I am well-versed in several molecular biology techniques. I strongly believe basic sciences research will lead to deeper understanding of our natural world and the discoveries thereof will lead to betterment of human life.
 
