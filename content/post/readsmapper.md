@@ -1,6 +1,6 @@
 +++
 date = "2019-03-04"
-description = "Python cheat sheet for biology"
+description = ""
 draft = false
 tags = ["bioinformatics"]
 title = "Extracting mapped and unmapped reads from fastq file"
