@@ -13,14 +13,20 @@ Recently, I had a problem where only a certain fraction of reads are mapping to 
 * The first step is to map the reads (fastq format) against a reference genome (sequence) using an aligner (eg. BWA-MEM, Bowtie2, STAR, minimap2).
 * Following this, we have a **sam or bam** file and this can be done with either of these files.
 * sam file has read ids in the first column and mapped/unmapped status in the 4th column - usually '0' for unmapped reads and a non-zero for mapped reads.
-* Information in the 4th column is used to separate mapped and unmapped reads into two separate sam files. Then, read ids in the first column can be used to extract specific reads in the fastq file using software tool called "seqtk".
+* Information in the 4th column is used to separate mapped and unmapped reads into two separate sam files. This can be done using a tool (rather, a suite of tools) called [samtools] (http://www.htslib.org/). Then, read ids in the first column of sam file can be used to extract specific reads in the fastq file using software tool called [seqtk] (https://github.com/lh3/seqtk).
 * **sam file:** 
 
 ```console
 samtools view -S -F4 sample.sam > sample.mapped.sam
 samtools view -S -f4 sample.sam > sample.unmapped.sam
 ```
-Here, **'F4'** and **'f4'** looks for a non-zero and zero in the 4th column respectively followed by printing out those rows to new sam files.
+* **bam file:** 
+
+```console
+samtools view -F4 sample.bam > sample.mapped.sam
+samtools view -f4 sample.bam > sample.unmapped.sam
+```
+Here, **'F4'** and **'f4'** looks for a non-zero and zero respectively in the 4th column followed by printing out those rows to new sam files.
 
 * Next step is to extract the read ids from these sam files into separate lists that **seqtk** uses. For this, we can use **cut** option.
 
